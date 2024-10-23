@@ -19,7 +19,7 @@ function App() {
         </div>
         <div className="z-10 col-start-1 row-start-1 flex items-center justify-center sm:h-[675px]">
           <div className="grid grid-cols-1 sm:grid-cols-[1fr_1fr]">
-            <div className="flex w-full flex-col p-[30px] sm:max-w-[530px] sm:p-0 sm:pl-[96px]">
+            <div className="flex w-full flex-col p-[30px] sm:max-w-[560px] sm:p-0 sm:pl-[96px] sm:pr-[24px]">
               <div className="gradient-text w-[max-content] translate-x-[-0.5em] transform font-haikus text-[24px] sm:mb-[1rem] sm:translate-x-[-1.2em] sm:text-[32px]">
                 Our Extraordinary
               </div>
